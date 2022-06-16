@@ -12,7 +12,7 @@
 
 ⚡ I am a frequent guest speaker and blog regularly at [http://colinsalmcorner.com](http://colinsalmcorner.com) and can be found on twitter at @colindembovsky.
 
-⚡ When I am not working, I am playing guitar, mandolin or drums, 3D printing on my Ender3, boardgaming, cooking, 3D printing or entertaining my wife and 2 kids.
+⚡ When I am not working, I am playing guitar, mandolin or drums, 3D printing on my Ender3, boardgaming, cooking or entertaining my wife and 2 kids.
 
 
 <!--
