@@ -1,8 +1,8 @@
 ### Hola! 👋
 
-⚡ I am a GitHub Field Solution Engineer, DevOpsologist ALM MVP Alumni.
+⚡ I am a GitHub Principal Field Solution Engineer, DevOpsologist and ALM MVP Alumni.
 
-⚡ I live in the US but am proudly South African! 
+⚡ I live in the Texas, but am proudly South African! 
 
 ⚡ After completing an MSc in Computer Science at Rhodes University, I worked as a developer (first in Linux using C++ and moving to .NET and C#) and later systems architect.
 
