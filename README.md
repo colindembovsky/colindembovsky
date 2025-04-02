@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-⚡ I am a GitHub Principal Field Solution Engineer, DevOpsologist and ALM MVP Alumni.
+⚡ I am the Director of Field Services for GitHub Copilot, a DevOpsologist and ALM MVP Alumni.
 
 ⚡ I live in the Texas, but am proudly South African! 
 
